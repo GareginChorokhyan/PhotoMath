@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../../Downloads/letter-e (1).png</file>
+    <file>../../Downloads/root.png</file>
+    <file>../../Downloads/squared.png</file>
+    <file>../../Downloads/cubed.png</file>
+    <file>../../Downloads/power.png</file>
+    <file>../../Downloads/square-root (1).png</file>
+    <file>../../Downloads/pi.png</file>
+    <file>../../Downloads/backspace (2).png</file>
+    <file>../../Downloads/square-root.png</file>
+    <file>../../Downloads/maths.png</file>
+    <file>../../Downloads/mathematics.png</file>
+    <file>../../Downloads/camera (1).png</file>
+    <file>../../Downloads/microphone.png</file>
+    <file>../../Downloads/_5fe58046-7e4c-4a4a-a920-a013dba99d18.ico</file>
+  </qresource>
+</RCC>
